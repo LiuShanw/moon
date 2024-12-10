@@ -1,0 +1,5 @@
+transformers
+python-dotenv
+notebook
+streamlit
+langchain
